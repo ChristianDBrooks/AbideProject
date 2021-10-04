@@ -1,6 +1,6 @@
 # AbideProject
 
-Jesus Journal App Idea
+### Description
 
 A tool for Christians to help encourage their walk with the Lord. The App attempts to detect when a believer may be straying from the Lord and call them back to his grace and glory. 
 * Allows users to enter daily journals (notes) on their studies/talks with Christ. 
@@ -16,7 +16,7 @@ A tool for Christians to help encourage their walk with the Lord. The App attemp
     * What have you been consuming? Is it healthy or not?
 * Tracks how often a user engages with the app.
 * When a user is disengaged the app sends notifications calling the user back to Christ and encourages them in mindful patterns instead of dying to the material things of the world.
- MVP 
+### MVP
 * UI with a login/register page
 * Home page that shows user info, and status.
     * First Name
@@ -41,5 +41,5 @@ A tool for Christians to help encourage their walk with the Lord. The App attemp
 * If a users days since engagement gets to 2 days the user is notified that they have not logged their time with God and they may be at risk of spending more time on the world than on God.
 * Enagement means either 
 
-Additional Features
+### Additional Features
 * Prayer List
